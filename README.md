@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atejadadev&label=Profile%20views&color=0e75b6&style=flat" alt="atejadadev" /> </p>
 
-- 🔭 I’m currently working on [My own social media app](https://github.com/ATejadaDev/Social-Media)
-
-- 🌱 I’m currently learning **Angular**
-
 - 👨‍💻 All of my projects are available at [atejadadev.netlify.app](atejadadev.netlify.app)
 
 - 💬 Ask me about **React, Javascript**
